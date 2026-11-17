@@ -1,0 +1,6 @@
+{
+  "name": "Meridian",
+  "description": "Beginner-friendly crypto and forex trading academy with live market data, simulated paper trading, interactive quizzes, portfolio analytics, and push alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
